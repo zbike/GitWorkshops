@@ -10,5 +10,9 @@
 8. We can produce laser light a million times brighter than sunshine
 9. 65% of those with autism are left handed
 10. The combined length of the roots of a Finnish pine tree is over 30 miles
+<<<<<<< HEAD
 11. Dimsum is awesome!!!!
 
+=======
+11. [I am Magic]
+>>>>>>> 34f6e37ea6646adaf08aa296c4d50ccf85e932fb
